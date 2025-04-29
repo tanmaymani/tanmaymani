@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanmaymani
 - 👀 I’m interested in Data Analyts 
-- 🌱 I’m currently learning- Python done with SQL
+- 🌱 I’m currently learning- Python and  SQL
 - 💞️ I’m looking to collaborate on-Data Analytics Enthusiasm 
 - 📫 How to reach me ...+91-9015527513
 - 😄 Pronouns: ⭐ 
